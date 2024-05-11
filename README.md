@@ -2,23 +2,23 @@
 
 Aim:
    
-    The aim of this project is to develop a model that can classify iris flowers into different species based on their sepal and petal measurements.
+   The aim of this project is to develop a model that can classify iris flowers into different species based on their sepal and petal measurements.
 
 
 Libraries Used:
 
 The following important libraries were used for this project:
 
-1.numpy
-2.pandas
-3.sklearn.cluster.KMeans
-4.matplotlib.pyplot
-5.seaborn
+  1.numpy
+  2.pandas
+  3.sklearn.cluster.KMeans
+  4.matplotlib.pyplot
+  5.seaborn
 
 
 Dataset:
     
-    The iris dataset was loaded using seaborn's load_dataset function, which contains information about iris flowers, including sepal length, sepal width, petal length, petal width, and species.
+ The iris dataset was loaded using seaborn's load_dataset function, which contains information about iris flowers, including sepal length, sepal width, petal length, petal width, and species.
 
 
 Data Exploration and Preprocessing:
