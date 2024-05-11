@@ -10,9 +10,13 @@ Libraries Used:
 The following important libraries were used for this project:
 
   1.numpy
+  
   2.pandas
+  
   3.sklearn.cluster.KMeans
+  
   4.matplotlib.pyplot
+  
   5.seaborn
 
 
